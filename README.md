@@ -3,4 +3,4 @@
 - 💞️ I’m looking to collaborate on open source projects on vision systems for robotics
 - 📫 contact : rahul1998@iitg.ac.in
 
-personal website -> https://www.rahul-shelf.com/
+Personal Website -> https://www.rahul-shelf.com/
